@@ -101,6 +101,20 @@
 
 
 1,3. 주문->결제->배송->주문 캡쳐
+kubectl get all
+![image](https://user-images.githubusercontent.com/75401920/105000728-06b18180-5a72-11eb-8609-e527c48f7060.png)
+
+product 상품 등록 
+![image](https://user-images.githubusercontent.com/75401920/105001534-42008000-5a73-11eb-8ab7-c955745e7703.png)
+
+주문 등록
+![image](https://user-images.githubusercontent.com/75401920/105001784-a3c0ea00-5a73-11eb-9c83-1d504502bca3.png)
+
+주문 등록 후 배송상태 변경됨 
+![image](https://user-images.githubusercontent.com/75401920/105001881-c81cc680-5a73-11eb-8b94-c25d03309a84.png)
+
+주문 등록 후 결제 내역 조회
+![image](https://user-images.githubusercontent.com/75401920/105001881-c81cc680-5a73-11eb-8b94-c25d03309a84.png)
 
 2. 마이페이지 조회 캡쳐
 
