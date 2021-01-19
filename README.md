@@ -163,6 +163,11 @@ product 상품 등록
 
 7. Istio 적용 캡쳐
 
+  - Istio테스트를 위해서 Payment에 sleep 추가
+  
+  ![image](https://user-images.githubusercontent.com/75401920/105005616-e89b4f80-5a78-11eb-82cb-de53e5881e3f.png)
+  
+
 8. 오토스캐일링 pod증가하는 모습 캡쳐
 
 9. Readness Proobe
