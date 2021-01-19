@@ -116,6 +116,23 @@ product 상품 등록
 주문 등록 후 결제 내역 조회
 ![image](https://user-images.githubusercontent.com/75401920/105001881-c81cc680-5a73-11eb-8b94-c25d03309a84.png)
 
+주문등록
+![image](https://user-images.githubusercontent.com/75401920/105002099-1b8f1480-5a74-11eb-957f-26f060d0bc5f.png)
+
+
+재고변경
+![image](https://user-images.githubusercontent.com/75401920/105002205-3e212d80-5a74-11eb-9d3a-469df1f27d49.png)
+
+주문취소
+![image](https://user-images.githubusercontent.com/75401920/105002335-6dd03580-5a74-11eb-860d-66d4062bd18f.png)
+
+주문취소 시 결제 취소
+![image](https://user-images.githubusercontent.com/75401920/105002401-95270280-5a74-11eb-89c9-069db87220e6.png)
+
+결제취소시 배송 취소
+![image](https://user-images.githubusercontent.com/75401920/105002466-acfe8680-5a74-11eb-91ba-bc04509a8b10.png)
+
+
 2. 마이페이지 조회 캡쳐
 
 4. 결제서비스 오류시 주문실패 캡쳐
