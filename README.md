@@ -168,7 +168,18 @@ product 상품 등록
   ![image](https://user-images.githubusercontent.com/75401920/105005616-e89b4f80-5a78-11eb-82cb-de53e5881e3f.png)
   
 
-8. 오토스캐일링 pod증가하는 모습 캡쳐
+8. AutoScale
+
+  - AutoScale 적용
+    order에 autoscale 적용
+![image](https://user-images.githubusercontent.com/75401920/105006184-a3c3e880-5a79-11eb-888e-f9c997db5b23.png)
+
+
+ - AutoScale 적용된 모습
+  order pod 개수가 증가함
+
+![image](https://user-images.githubusercontent.com/75401920/105006308-cf46d300-5a79-11eb-96db-77d865c9bfe9.png)
+
 
 9. Readness Proobe
  
