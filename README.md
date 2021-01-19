@@ -165,18 +165,23 @@ product 상품 등록
 
   - Istio테스트를 위해서 Payment에 sleep 추가
   
-  ![image](https://user-images.githubusercontent.com/75401920/105005616-e89b4f80-5a78-11eb-82cb-de53e5881e3f.png)
-  
+![image](https://user-images.githubusercontent.com/75401920/105005616-e89b4f80-5a78-11eb-82cb-de53e5881e3f.png)
+
+ - payments 서비스에 Istio 적용
+   
+![image](https://user-images.githubusercontent.com/75401920/105006822-7f1c4080-5a7a-11eb-9191-db35233773d3.png)
+
+ - Istio 적용 후 seige 실행 시 대략 50%정도 확률로 CB가 열려서 처리됨
+
+![image](https://user-images.githubusercontent.com/75401920/105006958-b2f76600-5a7a-11eb-99f3-c8b81a4ec270.png)
 
 8. AutoScale
 
-  - AutoScale 적용
-    order에 autoscale 적용
-![image](https://user-images.githubusercontent.com/75401920/105006184-a3c3e880-5a79-11eb-888e-f9c997db5b23.png)
-
-
  - AutoScale 적용된 모습
-  order pod 개수가 증가함
+
+![image](https://user-images.githubusercontent.com/75401920/105006642-4714fd80-5a7a-11eb-8424-aa2dede45666.png)
+
+ - AutoScale로  order pod 개수가 증가함
 
 ![image](https://user-images.githubusercontent.com/75401920/105006308-cf46d300-5a79-11eb-96db-77d865c9bfe9.png)
 
