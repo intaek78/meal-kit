@@ -135,7 +135,17 @@ product 상품 등록
 
 2. 마이페이지 조회 캡쳐
 
-4. 결제서비스 오류시 주문실패 캡쳐
+마이페이지 조회
+
+![image](https://user-images.githubusercontent.com/75401920/105002605-e8995080-5a74-11eb-99ad-15cdb20324ad.png)
+
+
+3. 결제서비스 장애 시 주문 불가
+
+![image](https://user-images.githubusercontent.com/75401920/105002912-52b1f580-5a75-11eb-8ce0-b661fbbcc1d3.png)
+
+
+
    
 
 5.6 애져에 LB로 캡쳐 그 IP로 호출
